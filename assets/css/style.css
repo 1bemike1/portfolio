@@ -1,0 +1,62 @@
+*{  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header styles */
+header {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 40px;
+    margin: 1%;
+    background-color: rgb(121, 63, 175);
+    color: yellow;
+}
+
+nav {
+    display: flexbox;
+    flex-wrap: nowrap;
+}
+
+body {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+avatar {
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    border-radius: 20%;
+}
+
+.h1 h2 h3 {
+    color: yellow;
+    
+}
+
+.ul li {
+    font-size: 60px;
+    float: left;
+}
+
+.button {
+    padding: 25px 50px;
+    display: inline;
+}
+.intro, div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px 100px;
+    text-align: center;
+    color: yellow;
+    margin: 25px 260px;
+    border: 25px;
+    background-color: rgb(147, 212, 180);
+}
+
+.address {
+    font-size: larger;
+}
