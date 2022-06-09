@@ -1,1 +1,1 @@
-# portfolio
+# portfolio This is my first HTML project and tribute to one of my all time favorite musical legends. He stood for justice for so many people and causes. He was ahead of his time, and definitely shaped the music industry and how artist approach their careers from a business aspect. 
